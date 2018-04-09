@@ -1,5 +1,4 @@
-class ChattyStudent
-  include Student
+class ChattyStudent < Student
 
   def hello
     super
