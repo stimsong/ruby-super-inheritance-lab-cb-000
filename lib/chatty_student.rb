@@ -1,4 +1,5 @@
 class ChattyStudent
+  include Student
 
   def hello
     super
